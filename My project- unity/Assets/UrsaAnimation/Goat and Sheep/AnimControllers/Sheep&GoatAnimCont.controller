@@ -254,7 +254,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SheepAnimCont
+  m_Name: Sheep&GoatAnimCont
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
